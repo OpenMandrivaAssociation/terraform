@@ -4,7 +4,7 @@
 #define pre rc2
 
 Name:		terraform
-Version:	1.3.0
+Version:	1.3.1
 Release:	1
 Summary:	Tool for building, changing and versioning infrastructure
 License:	MPL-2.0
