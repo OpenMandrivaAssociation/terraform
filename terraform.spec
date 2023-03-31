@@ -5,7 +5,7 @@
 
 Name:		terraform
 Version:	1.3.1
-Release:	1
+Release:	2
 Summary:	Tool for building, changing and versioning infrastructure
 License:	MPL-2.0
 Group:		Development/Other
