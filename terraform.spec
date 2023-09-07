@@ -4,8 +4,8 @@
 #define pre rc2
 
 Name:		terraform
-Version:	1.3.1
-Release:	2
+Version:	1.5.7
+Release:	1
 Summary:	Tool for building, changing and versioning infrastructure
 License:	MPL-2.0
 Group:		Development/Other
@@ -26,6 +26,7 @@ Source1:	godeps-for-terraform-%{version}.tar.xz
 BuildRequires:	golang make
 
 %description
+Tool for building, changing and versioning infrastructure
 
 %prep
 %autosetup -p1
