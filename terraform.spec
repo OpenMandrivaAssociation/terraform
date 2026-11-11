@@ -4,7 +4,7 @@
 #define pre rc2
 
 Name:		terraform
-Version:	1.17.1
+Version:	1.17.2
 Release:	1
 Summary:	Tool for building, changing and versioning infrastructure
 License:	BUSL-1.1
